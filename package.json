@@ -1,0 +1,29 @@
+{
+    "dependencies": {
+        "next": "^9.5.5",
+        "prop-types": "^15.7.2",
+        "react": "^16.14.0"
+    },
+    "name": "study_next_js_doc",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/heesungjang/study_next_js_doc.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/heesungjang/study_next_js_doc/issues"
+    },
+    "homepage": "https://github.com/heesungjang/study_next_js_doc#readme",
+    "description": "",
+    "devDependencies": {
+        "@types/node": "^16.11.0",
+        "@types/react": "^17.0.30",
+        "typescript": "^4.4.4"
+    }
+}
