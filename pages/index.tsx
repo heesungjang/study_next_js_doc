@@ -1,5 +1,6 @@
 // REACT
 import React from "react";
+//Components
 import AppLayout from "./components/AppLayout";
 
 const Home = () => {
